@@ -2,7 +2,7 @@ I'm a FrontEnd developer from UA
 
 **About me**
 
-- 💼 FrontEnd Dev at [Mabbly](http://mabbly.com/)
+- 💼 FrontEnd Dev
 
 - 📈 Built WP and Shopify custom themes
 
