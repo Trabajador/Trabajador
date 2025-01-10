@@ -10,5 +10,4 @@ I'm a FrontEnd developer from UA
 
 - 💬 Ask me about anything [here](https://github.com/trabajador/trabajador/issues)
  
-[![Guests](https://img.shields.io/endpoint?url=https%3A%2F%2Fhits.dwyl.com%2FTrabajador%2FTrabajador.json%3Fcolor%3Dblue)](http://hits.dwyl.com/Trabajador/Trabajador)
-  
+[![Guests](https://img.shields.io/endpoint?url=https%3A%2F%2Fhits.dwyl.com%2FTrabajador%2FTrabajador.json&label=Guests)](http://hits.dwyl.com/Trabajador/Trabajador)
