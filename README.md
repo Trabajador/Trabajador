@@ -10,4 +10,4 @@ I'm a FrontEnd developer from UA
 
 - 💬 Ask me about anything [here](https://github.com/trabajador/trabajador/issues)
  
-[![HitCount](https://hits.dwyl.com/Trabajador/Trabajador.svg?style=flat-square&show=unique)](http://hits.dwyl.com/Trabajador/Trabajador)
+[![HitCount](https://hits.dwyl.com/Trabajador/Trabajador.svg?style=social&show=unique)](http://hits.dwyl.com/Trabajador/Trabajador)
