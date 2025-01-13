@@ -2,7 +2,7 @@ I'm a FrontEnd developer from UA
 
 **About me**
 
-- 💼 FrontEnd Dev
+- 💼 FrontEnd Dev | Vue | Angular | React
 
 - 📈 Built WP and Shopify custom themes
 
