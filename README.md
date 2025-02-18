@@ -10,4 +10,3 @@ I'm a FrontEnd developer from UA
 
 - 💬 Ask me about anything [here](https://github.com/trabajador/trabajador/issues)
 
-![Visitor Badge](https://visitor-badge.glitch.me/badge?page_id=Trabajador)
