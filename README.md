@@ -10,4 +10,4 @@ I'm a FrontEnd developer from UA
 
 - 💬 Ask me about anything [here](https://github.com/trabajador/trabajador/issues)
  
-[![Guests](https://img.shields.io/endpoint?url=https%3A%2F%2Fhits.dwyl.com%2FTrabajador%2FTrabajador.json&label=Guests&color=blue)](http://hits.dwyl.com/Trabajador/Trabajador)
+[![Mike Gurba profile views](https://u8views.com/api/v1/github/profiles/17966260/views/day-week-month-total-count.svg)](https://u8views.com/github/Trabajador)
